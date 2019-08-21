@@ -222,7 +222,7 @@ font:
 #social:
   #LinkLabel: Link
 social:
-    GitHub: https://github.com/gbrblog
+    GitHub: https://github.com/gbrspace
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -296,7 +296,7 @@ sidebar:
   #Title: http://example.com/
 links_title: 推荐浏览
 links:
-  我的另一个github网站: https://gongbangrui.github.io
+  我的另一个github网站: https://gbrweb.github.io
 
 # ---------------------------------------------------------------
 # Post Settings
